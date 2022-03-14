@@ -1,1 +1,1 @@
-Translating roman numbers into base-10 and back.
+Translating base-10 into roman numerals
